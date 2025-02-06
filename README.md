@@ -1,4 +1,4 @@
-# A1.3-598557
+# A1.4 Selección de características
 En la lectura interactiva de este módulo trabajamos con la base de datos de calidad de vino. Ahí,
 programamos “a mano”, métodos de selección de características. Pero, al final, te comenté que
 existen otras funciones que te permiten realizar este proceso de forma más sencilla y veloz. En
