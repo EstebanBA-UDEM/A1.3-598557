@@ -25,3 +25,6 @@ decímetro cúbico.
 - “alcohol”. Volúmen percentil de alcohol en el vino.
 - “calidad”. Mediana de la calidad otorgada por al menos tres catadores, en escala del 0
 (muy malo) al 10 (excelente).
+- [HTML](./A1_4-598557.html)
+- [Jupyter Notebook](./A1_4-598557.ipynb)
+- [Base de Datos](./A1.4%20Vino%20Tinto.csv)
